@@ -1,0 +1,19 @@
+{
+  "blogPosts": [
+    {
+      "title": "Day 5",
+      "content": "Lockdown ",
+      "id": 2
+    },
+    {
+      "title": "Day 2",
+      "content": "Lockdown ",
+      "id": 3
+    },
+    {
+      "title": "Fourth post of Lockdown",
+      "content": "Some content",
+      "id": 4
+    }
+  ]
+}
